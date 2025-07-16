@@ -7,9 +7,10 @@ Hi, I’m Nana Ama Anim—a data analyst passionate about transforming raw data 
 
 ## ⚡ Skills & Tools
 - **Languages:** Python, SQL
-- **Data Visualization:** Power BI, Excel
-- **Analysis:** Data wrangling, reporting, dashboard creation
-- **Other:** Problem solving, trend analysis, collaboration
+- **Libraries:** Pandas, Numpy, Seaborn, Matplotlib
+- **Data Visualization:** MS Excel, Power BI
+- **Analysis:** Data wrangling, Reporting, Dashboard creation
+- **Other:** Problem solving, Trend analysis, Teamwork and Collaboration, Business Communication
 
 ---
 
