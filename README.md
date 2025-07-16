@@ -20,8 +20,8 @@ Check back for hands-on data analysis projects showcasing my skills in Python, S
 ---
 
 ## 📫 Contact & Connect
-- [LinkedIn](#) <!-- Add your LinkedIn link here when ready -->
-- [Email](#) <!-- Add your email or preferred contact here -->
+- [LinkedIn](http://www.linkedin.com/in/nanaamaanim)
+- [Email](mailto:nanatewaa1@gmail.com)
 
 ---
 
