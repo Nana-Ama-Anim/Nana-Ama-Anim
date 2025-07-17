@@ -1,7 +1,5 @@
-# 👋 Hi, I’m Nana Ama Anim
-
 ## About Me
-Hi, I’m Nana Ama Anim—a data analyst passionate about transforming raw data into meaningful insights. I love exploring trends, solving problems, and helping teams make data-driven decisions. My toolkit includes Python, SQL, Power BI, and Excel. I’m always eager to learn, collaborate, and turn numbers into stories.
+Hi, I’m Nana Ama Anim — a data analyst passionate about transforming raw data into meaningful insights. I love exploring trends, solving problems, and helping teams make data-driven decisions. My toolkit includes Python, SQL, Power BI, and Excel. I’m always eager to learn, collaborate, and turn numbers into stories.
 
 ---
 
@@ -14,9 +12,15 @@ Hi, I’m Nana Ama Anim—a data analyst passionate about transforming raw data 
 
 ---
 
-## 📁 Portfolio & Projects
-*Coming soon!*  
-Check back for hands-on data analysis projects showcasing my skills in Python, SQL, Power BI, and Excel.
+## 📁 Projects
+
+Exploratory Data Analysis (EDA) on BMW car sales data to uncover insights on what drives high or low sales. 
+- Tools used: Python, Pandas, Seaborn, Matplotlib, Jupyter
+- Focus: Top-selling models, regional trends, fuel preferences, and sales drivers
+- Outcome: Actionable insights for car dealerships and automotive businesses.
+[BMW Car Sales Analysis](https://github.com/Nana-Ama-Anim/your-project-repo)
+
+More projects coming soon!
 
 ---
 
