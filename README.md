@@ -22,7 +22,7 @@ Hi, I’m Nana Ama Anim — a data analyst passionate about transforming raw dat
 
 ## 📁 Projects
 
-[BMW Car Sales Analysis](https://github.com/Nana-Ama-Anim/BMW-Sales-Analysis)
+### [BMW Car Sales Analysis](https://github.com/Nana-Ama-Anim/BMW-Sales-Analysis)
 Exploratory Data Analysis (EDA) on a synthetic dataset of BMW car sales data to uncover insights on what drives high or low sales. 
 - Tools used: Python, Pandas, Seaborn, Matplotlib, Jupyter
 - Focus: Top-selling models, regional trends, fuel preferences, and sales drivers
