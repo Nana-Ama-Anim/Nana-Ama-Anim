@@ -3,44 +3,52 @@ Hi, I’m Nana Ama Anim — a data analyst passionate about transforming raw dat
 
 ---
 
+## 💼 What Drives Me  
+- I believe data tells powerful stories — and uncovering those stories drives smart decisions.  
+- I enjoy diving into new datasets to find patterns others miss.  
+- I’m motivated by impact: I want my work to help businesses grow and improve lives.  
+- Collaboration energizes me — solving problems is always better as a team.
+
+---
+
 ## ⚡ Skills & Tools
 - **Languages:** Python, SQL
 - **Libraries:** Pandas, Numpy, Seaborn, Matplotlib
 - **Data Visualization:** MS Excel, Power BI
-- **Analysis:** Data wrangling, Reporting, Dashboard creation
-- **Other:** Problem solving, Trend analysis, Teamwork and Collaboration, Business Communication
+- **Core Competencies:** Data wrangling, Reporting, Dashboard creation
+- **Soft Skills:** Problem solving, Trend analysis, Business Communication, Teamwork and Collaboration, 
 
 ---
 
 ## 📁 Projects
 
-Exploratory Data Analysis (EDA) on BMW car sales data to uncover insights on what drives high or low sales. 
+[BMW Car Sales Analysis](https://github.com/Nana-Ama-Anim/BMW-Sales-Analysis)
+Exploratory Data Analysis (EDA) on a synthetic dataset of BMW car sales data to uncover insights on what drives high or low sales. 
 - Tools used: Python, Pandas, Seaborn, Matplotlib, Jupyter
 - Focus: Top-selling models, regional trends, fuel preferences, and sales drivers
 - Outcome: Actionable insights for car dealerships and automotive businesses.
-[BMW Car Sales Analysis](https://github.com/Nana-Ama-Anim/your-project-repo)
 
 More projects coming soon!
+
+---
+
+## 🎓 Education
+- **BSc. Actuarial Science**
+  – University of Ghana, 2021  
+  Built a strong foundation in statistics, probability, and data modeling.
+
+---
+
+## 📜 Certifications
+- **Data Analyst Bootcamp Graduate**
+  – Generation Ghana, 2025
+  - Focus: Advanced MS Excel, Python, SQL, Power BI, Presentation, Storytelling & Real-world projects
 
 ---
 
 ## 📫 Contact & Connect
 - [LinkedIn](http://www.linkedin.com/in/nanaamaanim)
 - [Email](mailto:nanatewaa1@gmail.com)
-
----
-
-## 🌱 Currently Learning
-- Advanced data visualization techniques
-- Machine learning basics
-- New tools for data storytelling
-
----
-
-## 💡 Fun Facts
-- Always curious about how data shapes decisions in different industries
-- Love working with new datasets and uncovering hidden insights
-- Enjoy collaborating on data-driven solutions
 
 ---
 
