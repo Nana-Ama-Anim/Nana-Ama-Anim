@@ -15,8 +15,8 @@ Hi, I’m Nana Ama Anim — a data analyst passionate about transforming raw dat
 - **Languages:** Python, SQL
 - **Libraries:** Pandas, Numpy, Seaborn, Matplotlib
 - **Data Visualization:** MS Excel, Power BI
-- **Core Competencies:** Data wrangling, Reporting, Dashboard creation
-- **Soft Skills:** Problem solving, Trend analysis, Business Communication, Teamwork and Collaboration, 
+- **Core Competencies:** Data wrangling, Data mining, Reporting, Dashboard creation, Statistical Methods, Trend Analysis
+- **Soft Skills:** Problem solving, Business Communication, Teamwork and Collaboration, Presentation & facilitation, Accuracy & Attention to detail
 
 ---
 
