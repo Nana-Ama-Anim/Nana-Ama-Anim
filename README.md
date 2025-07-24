@@ -28,6 +28,9 @@ Exploratory Data Analysis (EDA) on a synthetic dataset of BMW car sales data to 
 - Focus: Top-selling models, regional trends, fuel preferences, and sales drivers
 - Outcome: Actionable insights for car dealerships and automotive businesses.
 
+### [Airbnb Market Analysis](https://github.com/Nana-Ama-Anim/Airbnb-Market-Analysis)
+In Progress!
+
 More projects coming soon!
 
 ---
