@@ -31,8 +31,6 @@ Exploratory Data Analysis (EDA) on a synthetic dataset of BMW car sales data to 
 ### [Airbnb Market Analysis](https://github.com/Nana-Ama-Anim/Airbnb-Market-Analysis)
 In Progress!
 
-More projects coming soon!
-
 ---
 
 ## 🎓 Education
