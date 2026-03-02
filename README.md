@@ -1,3 +1,4 @@
+
 ## About Me
 Hi, I’m Nana Ama Anim — a data analyst passionate about transforming raw data into meaningful insights. I love exploring trends, solving problems, and helping teams make data-driven decisions. My toolkit includes Python, SQL, Power BI, and Excel. I’m always eager to learn, collaborate, and turn numbers into stories.
 
@@ -29,9 +30,6 @@ Exploratory Data Analysis (EDA) on a synthetic dataset of BMW car sales data to 
 - Outcome: Actionable insights for car dealerships and automotive businesses.
 
 ### [Airbnb Market Analysis](https://github.com/Nana-Ama-Anim/Airbnb-Market-Analysis)
-In Progress!
-
-### [PaySwift Ghana Analysis](https://github.com/Nana-Ama-Anim/PaySwift-Ghana-Analysis)
 In Progress!
 
 ---
